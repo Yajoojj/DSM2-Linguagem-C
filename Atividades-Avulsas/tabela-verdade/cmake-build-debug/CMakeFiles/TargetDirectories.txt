@@ -1,0 +1,3 @@
+C:/Users/fatec-dsm2/CLionProjects/tabela-verdade/cmake-build-debug/CMakeFiles/tabela_verdade.dir
+C:/Users/fatec-dsm2/CLionProjects/tabela-verdade/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fatec-dsm2/CLionProjects/tabela-verdade/cmake-build-debug/CMakeFiles/rebuild_cache.dir
