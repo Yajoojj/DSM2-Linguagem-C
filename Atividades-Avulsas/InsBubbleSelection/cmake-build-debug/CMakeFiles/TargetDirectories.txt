@@ -1,0 +1,3 @@
+C:/Users/fatec-dsm2/CLionProjects/InsBubbleSelection/cmake-build-debug/CMakeFiles/InsBubbleSelection.dir
+C:/Users/fatec-dsm2/CLionProjects/InsBubbleSelection/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fatec-dsm2/CLionProjects/InsBubbleSelection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
