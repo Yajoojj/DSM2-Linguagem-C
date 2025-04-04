@@ -1,0 +1,3 @@
+C:/Users/fatec-dsm2/CLionProjects/livro/cmake-build-debug/CMakeFiles/livro.dir
+C:/Users/fatec-dsm2/CLionProjects/livro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fatec-dsm2/CLionProjects/livro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

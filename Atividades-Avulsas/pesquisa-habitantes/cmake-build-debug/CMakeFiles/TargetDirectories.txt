@@ -1,0 +1,3 @@
+C:/Users/fatec-dsm2/CLionProjects/pesquisa-habitantes/cmake-build-debug/CMakeFiles/pesquisa_habitantes.dir
+C:/Users/fatec-dsm2/CLionProjects/pesquisa-habitantes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fatec-dsm2/CLionProjects/pesquisa-habitantes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
