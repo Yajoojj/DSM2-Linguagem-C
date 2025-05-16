@@ -1,0 +1,39 @@
+int y, *p, x; 
+y = 0;
+p = &y; // aponta para o Y
+x = *p; // X recebe o valor apontado por P, no caso valor de Y
+x = 4; // X recebe o valor de 4
+ (*p)++; // Incrementa valor apontado por P, ou seja o Y
+x--; // Diminui o X em 1 (X=3)
+(*p) += x;
+printf ("y = %\n", y).
+return(0);
+
+Y = 4
+
+1- Qual é o valor a ser apresentado par as variáveis A, B e C?
+
+        int A, B, C, *p1, *p2;
+        p1 = &A; // Ponteiro 1 Aponta para A
+        p2 = &C; // Ponteiro 2 aponta para C
+        B = 10; // 10 É atribuido a B
+        A = 7; // 7 É atribuido a A
+        *p2 = A-B; // A - B = -3, C = -3
+        *p1 = C++; // -2
+        printf ("%d, %d, %d", A,B,C);
+        return 0;
+ // Resultado = A = -3, B = 10, C = -2
+
+
+
+
+    int vet[] = {10, 20, 30, 40, 50};
+    int *p = vet; // pega o vetor, inicia de 0, ou seja, 10
+    int a = *(p + 1); // A vale 20 pois esta armazenado na posição 1 A = 20
+    int b = *(p + 3); // Vamos para a posição 3, armazenando 40 B = 40
+    int c = *p + *(p + 4); // Pegamos o conteudo inicial, pois esta no 0, 10, depois avançamos + 4, fazendo 10 + 50 C=60
+    int d = *(p + 2) - *(p + 1); // D = 10
+    int e = *(p + 4); // E = 50
+// RESPOSTA, A = 20, B 20, c 60, D 10, E 50
+
+Quais os valores das variáveis a, b, c, d e e após a execução do programa?
